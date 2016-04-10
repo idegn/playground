@@ -1,0 +1,1 @@
+git commit -C HEAD -a --amend
